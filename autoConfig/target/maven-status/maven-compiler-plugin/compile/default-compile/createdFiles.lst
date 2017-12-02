@@ -1,0 +1,9 @@
+com\uqiauto\service\UserService.class
+com\uqiauto\service\UserServiceImpl.class
+com\uqiauto\pojo\UserExample$GeneratedCriteria.class
+com\uqiauto\controller\UserController.class
+com\uqiauto\dao\UserMapper.class
+com\uqiauto\pojo\User.class
+com\uqiauto\pojo\UserExample$Criteria.class
+com\uqiauto\pojo\UserExample$Criterion.class
+com\uqiauto\pojo\UserExample.class
